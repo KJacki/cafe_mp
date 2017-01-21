@@ -25,7 +25,9 @@
 		echo "<b><font size='5' color='#666699'>Free</font></b>";
 	}
 	else {
-		echo "<a href='./../free/free_index.php' style='text-decoration:none'>Free</a>";
+		// 21012017 Changed free_index.php to select_tbl_free.php
+// 		echo "<a href='./../free/free_index.php' style='text-decoration:none'>Free</a>";
+		echo "<a href='./../free/select_tbl_free.php' style='text-decoration:none'>Free</a>";
 	}
 	
 	// Right
