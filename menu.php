@@ -1,6 +1,5 @@
 <?php
 	// KH Cleaning
-// 	echo "KH Cleaning";
 	print "<a href = '../hosting_index.html' style='text-decoration:none'>KH Cleaning</a>";
 	echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 	
